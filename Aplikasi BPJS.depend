@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1490534247 source:d:\tugas\college\semester 2\struktur data\tugas\tubes\tubes4\aplikasi bpjs\child.cpp
+	"child.h"
+
+1490535840 source:d:\tugas\college\semester 2\struktur data\tugas\tubes\tubes4\aplikasi bpjs\parent.cpp
+	"parent.h"
+
+1490533335 source:d:\tugas\college\semester 2\struktur data\tugas\tubes\tubes4\aplikasi bpjs\relasi.cpp
+	"relasi.h"
+
+1490539966 source:d:\tugas\college\semester 2\struktur data\tugas\tubes\tubes4\aplikasi bpjs\main.cpp
+	"parent.h"
+	"child.h"
+	"relasi.h"
+
+1490535760 d:\tugas\college\semester 2\struktur data\tugas\tubes\tubes4\aplikasi bpjs\parent.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+
+1490536381 d:\tugas\college\semester 2\struktur data\tugas\tubes\tubes4\aplikasi bpjs\child.h
+	"parent.h"
+
+1490533308 d:\tugas\college\semester 2\struktur data\tugas\tubes\tubes4\aplikasi bpjs\relasi.h
+	"child.h"
+
